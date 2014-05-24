@@ -1,0 +1,11 @@
+{
+  "name": "levelmeup",
+  "version": "0.0.0",
+  "description": "",
+  "main": "sol1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
